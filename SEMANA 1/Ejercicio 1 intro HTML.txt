@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ejercicio 1<title>
+    </title>
+</head>
+<body>
+    <center>
+        <h1>introduccion al <html></html></h1>
+        <br><br>
+        <h2>vamos aprender en este semestre html , css y javascript</h2>
+        <br><br>
+        <p>Este es el grupo PAE 02 Miercoles 7 AM ubicado en la torre 1 salon 202</p>
+        <hr>
+        <hr>
+        <p>creado por @MAURICIO <P>
+
+    </center>
+</body>
+</html>
+
